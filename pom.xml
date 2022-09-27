@@ -218,6 +218,7 @@
             <source>11</source>
             <failOnWarnings>true</failOnWarnings>
             <doclint>all</doclint>
+            <excludePackageNames>okhttp3.urlconnection</excludePackageNames>
           </configuration>
         </plugin>
         <plugin>
